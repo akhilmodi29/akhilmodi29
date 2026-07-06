@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻First-year Computer Science student at Bennett University<br>🔭 I’m currently working on GSSoC'26 <br>🌱 I’m currently learning DSA and Web Dev 
+👨‍💻First-year Computer Science student at Bennett University<br>🔭 I’m currently working on GSSoC'26 <br>🌱 I’m Exploring learning DSA and Web Dev 
 
 
 ## 🌐 Socials:
