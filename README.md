@@ -1,4 +1,4 @@
-Hi there, I'm Akhil Modi 👋
+#Hi there, I'm Akhil Modi 👋
 
 # 💫 About Me:
 👨‍💻First-year Computer Science student at Bennett University<br>🔭 I’m currently working on GSSoC'26 <br>🌱 I’m Exploring learning DSA and Web Dev 
